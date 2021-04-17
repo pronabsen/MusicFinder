@@ -11,12 +11,11 @@
 "app_name": "Gcam Finder",
 
 "app_version": "1.0.0",
-"app_author": "Pronab Sen Gupta & Arnob Sen Gupta",
 "app_contact": "+880 1799238766",
 "app_email": "pronab@nextzen.com.bd",
 "app_website": "https://nextzen.com.bd/",
 "app_description": "<p><strong>Gcam Finder</strong> will help you to install the most compatible version of the GCamera&nbsp;for your device!<br /> <br /> Application has a remote database, where stored Camera applications for almost 500+ devices at that moment.</p> <p><strong><big>Features of GcamFinder:</big></strong></p> <p>&nbsp; - User Can Check&nbsp;Camera2Api status<br /> &nbsp; -&nbsp; Application will Auto Check&nbsp;your device information and gives you the Perfect Camera for your device<br /> &nbsp; -&nbsp; If the application can&#39;t find a Camera for your Device then&nbsp;You can Email Us &quot;Subscribe Notification&quot;. After that, your Device Infomation, Like&nbsp;Device Manufacturer, Model, and Android Version will be sent to the developer and then We will be added Gcam For your Device in about a few hours. And You will get a notification on your Mobile Phone about it<br /> -&nbsp; You can Download Any Camera&nbsp;manually<br /> -&nbsp; This Application doesn&#39;t require any root access and the Application will detect it automatically.<br /> -&nbsp; User can Download Gcam Config File from the Application</p> <p>&nbsp;</p> <p><tt><strong>Note:&nbsp;</strong>All GCamera Apps, Moded by developers, so will have to say we should thank <strong>CelsoAzevedo</strong>&nbsp;for all the developers who made the GCamera app work with most of the other Android phones of different companies.</tt></p> ",
-"app_developed_by": "Pronab Arnob Sen Gupta",
+"app_developed_by": "Pronab Sen Gupta",
 "maintance": "false",
 "update_is": "false",
 "update_version": "1.2.0",
